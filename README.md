@@ -3,10 +3,10 @@ Este sistema permite tener automatizados los precesos de registro de socios,
 la asignacion de deudas y el pago del mismo, pudiendose tener un control de las transacciones que puedan realizar una empresa.
 
 # Algunas images del Sistema Funcionando
-![Imagen 1](www.seguridadsistema.com.ve/github/imagen/imagen1.png)
-![Imagen 2](www.seguridadsistema.com.ve/github/imagen/imagen2.png)
-![Imagen 3](www.seguridadsistema.com.ve/github/imagen/imagen3.png)
-![Imagen 4](www.seguridadsistema.com.ve/github/imagen/imagen4.png)
+![Imagen 1](http://www.seguridadsistema.com.ve/github/imagen/imagen1.png)
+![Imagen 2](http://www.seguridadsistema.com.ve/github/imagen/imagen2.png)
+![Imagen 3](http://www.seguridadsistema.com.ve/github/imagen/imagen3.png)
+![Imagen 4](http://www.seguridadsistema.com.ve/github/imagen/imagen4.png)
 
 # Manual de Usuario
 
